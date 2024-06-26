@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduce Myself"
+title: "Chen Hao"
 author_profile: true
 redirect_from: 
   - /about/
