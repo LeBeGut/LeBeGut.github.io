@@ -9,9 +9,6 @@ redirect_from:
 
 Chen Hao, male, born in January 2000, studied computer science and technology in the School of Computer and Information Engineering of [Heilongjiang University of Science and Technology](http://www.usth.edu.cn/) as a bachelor's degree, served as the class leader during the school, and served as a member of the discipline inspection committee of the first party branch of the students of the School of Computer and Information Engineering, with a GPA of 4.19/5.00, and won the National Inspirational Scholarship, Heilongjiang Province Three Good Students and other honors, and successfully won the college in 2023. He was admitted to the School of Computer Science and Software of Shenzhen University for a master's degree with the second grade in his major, and obtained a bachelor's degree in June 2024.
 
-
-Education Experience
-======
 | Duration | School Name |	Location | Education Level |
 |:--------:| :---------:|:--------:|:---------:|
 | Sept 2008 - Sept 2014 | The second primary school in Pinglu District |Shuozhou City, Shanxi Province | Elementary school|
@@ -19,6 +16,10 @@ Education Experience
 | Sept 2017 - Sept 2020 | Shuozhou No.2 Middle School |Shuozhou City, Shanxi Province |High school |
 | Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
 | Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
+
+Education Experience
+======
+
 
 Getting started
 ======
