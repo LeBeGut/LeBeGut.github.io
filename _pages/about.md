@@ -1,23 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduce Myself"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Chen Hao, male, born in January 2000, studied computer science and technology in the School of Computer and Information Engineering of [Heilongjiang University of Science and Technology](http://www.usth.edu.cn/) as a bachelor's degree, served as the class leader during the school, and served as a member of the discipline inspection committee of the first party branch of the students of the School of Computer and Information Engineering, with a GPA of 4.19/5.00, and won the National Inspirational Scholarship, Heilongjiang Province Three Good Students and other honors, and successfully won the college in 2023. He was admitted to the School of Computer Science and Software of Shenzhen University for a master's degree with the second grade in his major, and obtained a bachelor's degree in June 2024.
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
 
-A data-driven personal website
+Education Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+| Duration | School Name |	Location | Education Level |
+|:--------:| :---------:|:--------:|:---------:|
+| Sept 2008 - Sept 2014 | The second primary school in Pinglu District |Shuozhou City, Shanxi Province | Elementary school|
+| Sept 2014 - Sept 2017 | Pinglu District Experimental Middle School | Shuozhou City, Shanxi Province| Secondary school|
+| Sept 2017 - Sept 2020 | Shuozhou No.2 Middle School |Shuozhou City, Shanxi Province |High school |
+| Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
+| Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
 
 Getting started
 ======
