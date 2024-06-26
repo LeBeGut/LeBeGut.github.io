@@ -10,7 +10,7 @@
 locale                   : "China"
 title                    : "HomePage"
 title_separator          : "-"
-name                     : &name "Chen Hao"
+name                     : &name "Hao Chen"
 description              : &description "Nobady likes a smart aleck."
 url                      : https://LeBeGut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "LeBeGut/LeBeGut.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  # name             : "Chen Hao"
+  # name             : "Hao Chen"
   pronouns         : # example: "He/His"  
   bio              : "Nobady likes a smart aleck."
   location         : "Shenzhen, Guangdong"
