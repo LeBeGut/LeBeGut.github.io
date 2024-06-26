@@ -57,9 +57,9 @@ Undergraduate program experience
 
 <br>
 
-Undergraduate dissertation publication
+Published papers
 ======
-
+|During the undergraduate period|
 |:---|
 **1**.Hao Chen, Xinyi Dou, Yichu Liu. Research on Comprehensive Evaluation Model of Forest Carbon Sequestration Based on Gray Correlation Analysis, Environment, Resource and Ecology ournal.2022.6(1):90-93
 **2**.Hao Chen, Boning Zhao, Xinyi Dou, Xiao Wang. Data analysis equipment for post-disaster relief and reconstruction based on shock-absorbing devices, Scientific Journal of Intelligent Systems Research,2022.4(10):34-43
