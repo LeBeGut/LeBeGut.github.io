@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Chen Hao, male, born in January 2000, studied computer science and technology in the School of Computer and Information Engineering of [Heilongjiang University of Science and Technology](http://www.usth.edu.cn/) as a bachelor's degree, served as the class leader during the school, and served as a member of the discipline inspection committee of the first party branch of the students of the School of Computer and Information Engineering, with a GPA of 4.19/5.00, and won the National Inspirational Scholarship, Heilongjiang Province Three Good Students and other honors, and successfully won the college in 2023. He was admitted to the School of Computer Science and Software of Shenzhen University for a master's degree with the second grade in his major, and obtained a bachelor's degree in June 2024.
-
+<br>
 
 Education Experience
 ======
@@ -21,7 +21,7 @@ Education Experience
 | Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
 | Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
 
-
+<br>
 
 Undergraduate Honors/Awards
 ======
@@ -44,6 +44,7 @@ Undergraduate Honors/Awards
 |September 2023|Three good students in Heilongjiang Province|Provincial|
 |November 2021, 2022, 2023|Three good students of Heilongjiang University of Science and Technology|School level|
 
+<br>
 
 Undergraduate program experience
 ======
@@ -54,8 +55,11 @@ Undergraduate program experience
 |August 2022 - August 2023|Research and Implementation of YOLOV5-based Insect Identification Technology in the Field of Agricultural Pests (Member)|Responsible for modules: the Java part of the front-end and back-end interaction, with the help of SpringBoot + MyBatis + SpringMVC, etc|**1**.Innovation and Entrepreneurship Training Program for College Students.<br>**2**.The 14th "Challenge Cup" Heilongjiang Provincial College Student Entrepreneurship Plan Competition-Provincial Third Prize|
 |May 2022 - May 2023|Yunchuang mall management system(Java Software Development Engineer)|Yunchuang Mall is an e-commerce background management system, the system is responsible for managing various data and operations in the shopping mall, after selecting the goods to purchase the order, the management system will find the user's order, and the order is shipped, returned, refunded and other shopping functions are realized.<br>The project uses Spring MVC + SpringBoot + Spring Cloud Alibaba to build a microservice project environment, cooperates with Nacos for service registration and discovery, Zipkin for link tracing, and uses tools such as Gateway, MySOL, Mybatis Plus, and Redis to ensure persistent and efficient access to data.|项目链接:https://gitee.com/lebequt/springcloud-alibaba|
 
+<br>
 
+Undergraduate dissertation publication
+======
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**1**.Hao Chen, Xinyi Dou, Yichu Liu. Research on Comprehensive Evaluation Model of Forest Carbon Sequestration Based on Gray Correlation Analysis, Environment, Resource and Ecology ournal.2022.6(1):90-93
+**2**.Hao Chen, Boning Zhao, Xinyi Dou, Xiao Wang. Data analysis equipment for post-disaster relief and reconstruction based on shock-absorbing devices, Scientific Journal of Intelligent Systems Research,2022.4(10):34-43
+
