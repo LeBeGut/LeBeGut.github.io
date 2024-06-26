@@ -20,6 +20,14 @@ Chen Hao, male, born in January 2000, studied computer science and technology in
 Education Experience
 ======
 
+| Duration | School Name |	Location | Education Level |
+|:--------:| :---------:|:--------:|:---------:|
+| Sept 2008 - Sept 2014 | The second primary school in Pinglu District |Shuozhou City, Shanxi Province | Elementary school|
+| Sept 2014 - Sept 2017 | Pinglu District Experimental Middle School | Shuozhou City, Shanxi Province| Secondary school|
+| Sept 2017 - Sept 2020 | Shuozhou No.2 Middle School |Shuozhou City, Shanxi Province |High school |
+| Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
+| Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
+
 
 Getting started
 ======
