@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "#Chen Hao"
+title: "Chen Hao"
 author_profile: true
 redirect_from: 
   - /about/
