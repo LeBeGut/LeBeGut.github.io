@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Chen Hao, male, born in January 2000, studied computer science and technology in the School of Computer and Information Engineering of [Heilongjiang University of Science and Technology](http://www.usth.edu.cn/) as a bachelor's degree, served as the class leader during the school, and served as a member of the discipline inspection committee of the first party branch of the students of the School of Computer and Information Engineering, with a GPA of 4.19/5.00, and won the National Inspirational Scholarship, Heilongjiang Province Three Good Students and other honors, and successfully won the college in 2023. He was admitted to the School of Computer Science and Software of Shenzhen University for a master's degree with the second grade in his major, and obtained a bachelor's degree in June 2024.
-<br>
+
 
 Education Experience
 ======
@@ -44,10 +44,10 @@ Undergraduate Honors/Awards
 |September 2023|Three good students in Heilongjiang Province|Provincial|
 |November 2021, 2022, 2023|Three good students of Heilongjiang University of Science and Technology|School level|
 
-&nbsp;
 
 Undergraduate program experience
 ======
+
 | Time | The name of the project | Project Brief Introduction| Outputs|
 |:--------:| :---------:|:--------|:--------|
 |August 2022 - August 2023|Post-disaster rescue and reconstruction data analysis equipment based on cushioning device (person in charge)|The project combines intelligent and accurate analysis with efficient rescue and post-disaster reconstruction technology. The core concept is to minimize losses and optimize results with the help of artificial intelligence technology. The project integrates a number of advanced technologies such as mechanical cushioning devices, face recognition, gas detection, temperature detection, terrain exploration and detection. Among them, the cushioning device is powered by the track, which effectively weakens the oscillation of the device during operation and enhances stability and accuracy. The functions of face recognition and gas and temperature detection are realized through Python function libraries and specific sensors, and SLAM is constructed by using lidar and binocular vision. The whole project was developed on the ROS system and Linux operating system, using many advanced development tools and technologies, demonstrating the technical depth and breadth of the project.|1.Innovation and Entrepreneurship Training Program for College Students.2."CCB Cup" The 9th China International "Internet+" College Student Innovation and Entrepreneurship Competition-Provincial Bronze Award.3.Published one paper in English.|
