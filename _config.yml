@@ -22,7 +22,7 @@ repository               : "LeBeGut/LeBeGut.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chen Hao"
+  # name             : "Chen Hao"
   pronouns         : # example: "He/His"  
   bio              : "Nobady likes a smart aleck."
   location         : "Shenzhen, Guangdong"
