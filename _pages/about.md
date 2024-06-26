@@ -21,6 +21,7 @@ Education Experience
 | Sept 2017 - Sept 2020 | Shuozhou No.2 Middle School |Shuozhou City, Shanxi Province |High school |
 | Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
 | Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
+
 <br>
 <br>
 
@@ -44,6 +45,7 @@ Undergraduate Honors/Awards
 |November 2021, 2022, 2024|Heilongjiang University of Science and Technology Single Scholarship|School level|
 |September 2023|Three good students in Heilongjiang Province|Provincial|
 |November 2021, 2022, 2023|Three good students of Heilongjiang University of Science and Technology|School level|
+
 <br>
 <br>
 
