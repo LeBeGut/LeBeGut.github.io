@@ -22,8 +22,6 @@ Education Experience
 | Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
 | Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
 
-<br>
-<br>
 
 Undergraduate Honors/Awards
 ======
@@ -46,8 +44,6 @@ Undergraduate Honors/Awards
 |September 2023|Three good students in Heilongjiang Province|Provincial|
 |November 2021, 2022, 2023|Three good students of Heilongjiang University of Science and Technology|School level|
 
-<br>
-<br>
 
 Site-wide configuration
 ------
