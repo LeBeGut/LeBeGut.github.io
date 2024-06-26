@@ -21,16 +21,31 @@ Education Experience
 | Sept 2017 - Sept 2020 | Shuozhou No.2 Middle School |Shuozhou City, Shanxi Province |High school |
 | Oct 2020 - Jun 2024 | Heilongjiang University of Science and Technology | Harbin City, Heilongjiang Province| University |
 | Sept 2024 -  | Shenzhen University | Shenzhen, Guangdong Province| Master |
+<br>
+<br>
 
-
-Getting started
+Undergraduate Honors/Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+| Time | Award Name |	Award Level |
+|:--------:| :---------:|:--------:|
+|November 2022|National Collegiate Mathematical Contest in Modeling|National Second Prize|
+|May 2022|American Collegiate Mathematical Contest in Modeling|Honorable Mention|
+|September 2022|Mathematical Modeling League of the Three Northeast Provinces|Provincial First Prize|
+|August 2022|National College Student Statistical Modeling Competition|Provincial Second Prize|
+|December 2023|National Collegiate Mathematical Contest in Modeling|Provincial Second Prize|
+|August 2022|"CCB Cup" The 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition|Provincial Bronze Award|
+|August 2023|"CCB Cup" The 9th China International "Internet+" College Student Innovation and Entrepreneurship Competition|Provincial Bronze Award|
+|August 2022|The 13th "Challenge Cup" Heilongjiang Provincial College Student Entrepreneurship Plan Competition|Provincial Third Prize|
+|May 2023|2023 (16th) China College Student Computer Design Competition Heilongjiang Provincial Competition|Provincial Third Prize|
+|August 2023|2*Innovation and Entrepreneurship Training Program for College Students|National|
+|December 2021, 2022, 2023|National Encouragement Scholarship|National|
+|November 2021, 2022, 2023, 2024|First-class Scholarship of Heilongjiang University of Science and Technology|School level|
+|November 2021, 2022, 2024|Heilongjiang University of Science and Technology Single Scholarship|School level|
+|September 2023|Three good students in Heilongjiang Province|Provincial|
+|November 2021, 2022, 2023|Three good students of Heilongjiang University of Science and Technology|School level|
+<br>
+<br>
 
 Site-wide configuration
 ------
