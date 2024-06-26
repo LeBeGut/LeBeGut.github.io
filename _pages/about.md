@@ -49,7 +49,7 @@ Undergraduate Honors/Awards
 Undergraduate program experience
 ======
 
-| Time | The name of the project | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Brief Introduction| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outputs|
+| Time | The name of the project | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Brief Introduction| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outputs|
 |:--------:| :---------:|:--------|:--------|
 |August 2022 - August 2023|Post-disaster rescue and reconstruction data analysis equipment based on cushioning device (person in charge)|The project combines intelligent and accurate analysis with efficient rescue and post-disaster reconstruction technology. The core concept is to minimize losses and optimize results with the help of artificial intelligence technology. The project integrates a number of advanced technologies such as mechanical cushioning devices, face recognition, gas detection, temperature detection, terrain exploration and detection. Among them, the cushioning device is powered by the track, which effectively weakens the oscillation of the device during operation and enhances stability and accuracy. The functions of face recognition and gas and temperature detection are realized through Python function libraries and specific sensors, and SLAM is constructed by using lidar and binocular vision. The whole project was developed on the ROS system and Linux operating system, using many advanced development tools and technologies, demonstrating the technical depth and breadth of the project.|**1**.Innovation and Entrepreneurship Training Program for College Students.<br>**2**."CCB Cup" The 9th China International "Internet+" College Student Innovation and Entrepreneurship Competition-Provincial Bronze Award.<br>**3**.Published one paper in English.|
 |August 2022 - August 2023|Research and Implementation of YOLOV5-based Insect Identification Technology in the Field of Agricultural Pests (Member)|Responsible for modules: the Java part of the front-end and back-end interaction, with the help of SpringBoot + MyBatis + SpringMVC, etc|**1**.Innovation and Entrepreneurship Training Program for College Students.<br>**2**.The 14th "Challenge Cup" Heilongjiang Provincial College Student Entrepreneurship Plan Competition-Provincial Third Prize|
@@ -59,8 +59,9 @@ Undergraduate program experience
 
 Published papers
 ======
+
 |During the undergraduate period|
 |:---|
-**1**.Hao Chen, Xinyi Dou, Yichu Liu. Research on Comprehensive Evaluation Model of Forest Carbon Sequestration Based on Gray Correlation Analysis, Environment, Resource and Ecology ournal.2022.6(1):90-93
-**2**.Hao Chen, Boning Zhao, Xinyi Dou, Xiao Wang. Data analysis equipment for post-disaster relief and reconstruction based on shock-absorbing devices, Scientific Journal of Intelligent Systems Research,2022.4(10):34-43
+|**1**.Hao Chen, Xinyi Dou, Yichu Liu. Research on Comprehensive Evaluation Model of Forest Carbon Sequestration Based on Gray Correlation Analysis, Environment, Resource and Ecology ournal.2022.6(1):90-93|
+|**2**.Hao Chen, Boning Zhao, Xinyi Dou, Xiao Wang. Data analysis equipment for post-disaster relief and reconstruction based on shock-absorbing devices, Scientific Journal of Intelligent Systems Research,2022.4(10):34-43|
 
